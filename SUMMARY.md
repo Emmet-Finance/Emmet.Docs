@@ -2,8 +2,8 @@
 
 ## Introduction
 - [Welcome](README.md)
-- [Introduction](docs/introduction.md)
+- [Introduction](./docs/introduction.md)
 
 ## Products
-- [Bridge](docs/bridge.md)
+- [Bridge](./docs/bridge.md)
 
