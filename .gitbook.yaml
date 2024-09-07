@@ -1,8 +1,13 @@
-root: ./
+root: ./docs
 
 ​structure:
   readme: README.md
-  summary: SUMMARY.md​
-
-redirects:
-  previous/page: new-folder/page.md
+  summary: SUMMARY.md
+  glossary: GLOSSARY.md
+  introduction: introduction.md
+branch: main
+plugins:
+  - search
+  - highlight
+title: Emmet.Finance Public Documentation
+description: Emmet.Finance Public Documentation
