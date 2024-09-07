@@ -19,10 +19,10 @@ For any questions or clarifications on how to use our assets, please reach out t
 ## Brand Assets
 
 <br/>
-<div style="border: 2px solid; padding: 15px; border-radius: 8px; text-align: center;">
+<div style="border: 2px solid #ddd; padding: 15px; border-radius: 8px; text-align: center;">
   <strong>Download Resources:</strong>
   <br>
-  <a href="https://github.com/your-username/your-repo/blob/main/assets/my-file.zip?raw=true" download style="color: #0078e7; font-weight: bold;">
+  <a href="https://github.com/Emmet-Finance/Emmet.Docs/blob/main/docs/assets/Emmet-assets.zip?raw=true" download style="color: #0078e7; font-weight: bold;">
     Click here to download the ZIP file
   </a>
 </div>
