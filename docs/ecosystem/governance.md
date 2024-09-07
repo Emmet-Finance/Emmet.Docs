@@ -21,43 +21,43 @@ The governance process within \textit{Emmet.Finance** involves several key stage
 
 1. **Proposal Submission**:
 
-        Any EMMET token holder can submit a governance proposal. Proposals may cover a wide range of topics, including protocol upgrades, fee adjustments, new feature implementation, and treasury management.
-
-        Proposals must include detailed information, such as the rationale, expected impact, and technical details. A minimum number of tokens may be required to submit a proposal to prevent spam.
+    > 1.1 Any EMMET token holder can submit a governance proposal. Proposals may cover a wide range of topics, including protocol upgrades, fee adjustments, new feature implementation, and treasury management.
+    >
+    > 1.2 Proposals must include detailed information, such as the rationale, expected impact, and technical details. A minimum number of tokens may be required to submit a proposal to prevent spam.
 
 
 2. **Discussion and Deliberation**:
    
-       Once submitted, proposals enter a discussion phase where the community can debate the merits and drawbacks. Discussions take place on official forums, social media, and other communication channels.
-
-       This phase is crucial for gathering feedback, refining proposals, and ensuring all aspects are thoroughly considered. It also provides an opportunity for the proposal's author to address concerns and make adjustments.
+    >2.1 Once submitted, proposals enter a discussion phase where the community can debate the merits and drawbacks. Discussions take place on official forums, social media, and other communication channels.
+    >
+    >2.2 This phase is crucial for gathering feedback, refining proposals, and ensuring all aspects are thoroughly considered. It also provides an opportunity for the proposal's author to address concerns and make adjustments.
 
 
 3. **Voting**:
    
-       After the discussion phase, eligible proposals move to a voting phase. EMMET token holders can cast their votes based on their token holdings, with each token typically representing one vote.
-
-       The voting period is predefined and lasts for a specified duration. A proposal passes if it meets the required quorum (a minimum number of votes) and achieves a majority approval.
-
-       In certain cases, a supermajority (e.g., two-thirds approval) may be required, particularly for proposals with significant implications, such as changes to the governance structure or tokenomics.
+    > 3.1 After the discussion phase, eligible proposals move to a voting phase. EMMET token holders can cast their votes based on their token holdings, with each token typically representing one vote.
+    >
+    > 3.2 The voting period is predefined and lasts for a specified duration. A proposal passes if it meets the required quorum (a minimum number of votes) and achieves a majority approval.
+    >
+    > 3.3 In certain cases, a supermajority (e.g., two-thirds approval) may be required, particularly for proposals with significant implications, such as changes to the governance structure or tokenomics.
 
 
 4. **Implementation**:
    
-       Once a proposal is approved, it enters the implementation phase. The `Emmet.Finance` development team, or designated working groups, are responsible for executing the proposal as specified.
-
-       Implementation includes deploying smart contract updates, integrating new features, or reallocating treasury funds. The process is closely monitored to ensure it adheres to the approved proposal's specifications.
+    > 4.1 Once a proposal is approved, it enters the implementation phase. The `Emmet.Finance` development team, or designated working groups, are responsible for executing the proposal as specified.
+    >
+    > 4.2 Implementation includes deploying smart contract updates, integrating new features, or reallocating treasury funds. The process is closely monitored to ensure it adheres to the approved proposal's specifications.
 
 
 5. **Post-Implementation Review**:
    
-       After implementation, the community reviews the outcome to assess the proposal's impact and effectiveness. This review helps identify any issues or areas for improvement, ensuring continuous optimization of the platform.
-
-       Feedback from the post-implementation review is documented and may inform future proposals or adjustments to existing processes.
+    > 5.1 After implementation, the community reviews the outcome to assess the proposal's impact and effectiveness. This review helps identify any issues or areas for improvement, ensuring continuous optimization of the platform.
+    >
+    > 5.2 Feedback from the post-implementation review is documented and may inform future proposals or adjustments to existing processes.
 
 
 6. **Emergency Governance**:
    
-       In exceptional circumstances, such as critical security vulnerabilities or other urgent issues, an emergency governance process may be initiated. This process involves expedited discussions and voting to address the issue swiftly.
-
-       The emergency governance mechanism includes safeguards to prevent abuse, such as requiring a higher quorum or supermajority approval.
+    > 6.1 In exceptional circumstances, such as critical security vulnerabilities or other urgent issues, an emergency governance process may be initiated. This process involves expedited discussions and voting to address the issue swiftly.
+    >
+    > 6.2 The emergency governance mechanism includes safeguards to prevent abuse, such as requiring a higher quorum or supermajority approval.
