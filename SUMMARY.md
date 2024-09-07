@@ -8,3 +8,4 @@
 - [Swaping](./docs/products/swap.md)
 - [Farming](./docs/products/farm.md)
 - [Staking](./docs/products/farm.md)
+- [Lending & Borrowing](./docs/products/lend_n_borrow.md)
