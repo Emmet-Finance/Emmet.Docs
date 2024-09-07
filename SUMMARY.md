@@ -11,3 +11,6 @@
 - [Farming](./docs/products/farm.md)
 - [Staking](./docs/products/stake.md)
 - [Lending & Borrowing](./docs/products/lend_n_borrow.md)
+
+## Ecosystem & Partners
+- [Brand Assets](./docs/ecosystem/brand_and_logos.md)
