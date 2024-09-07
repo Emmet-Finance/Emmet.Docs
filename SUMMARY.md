@@ -4,6 +4,7 @@
 - [Introduction](./docs/introduction.md)
 
 ## Products
-- [Bridge](./docs/bridge.md)
-- [Swap](./docs/swap.md)
-- [Farm](./docs/farm.md)
+- [Bridging](./docs/products/bridge.md)
+- [Swaping](./docs/products/swap.md)
+- [Farming](./docs/products/farm.md)
+- [Staking](./docs/products/farm.md)
