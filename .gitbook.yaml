@@ -11,3 +11,12 @@ plugins:
   - highlight
 title: Emmet.Finance Public Documentation
 description: Emmet.Finance Public Documentation
+plugins:
+  - search
+  - highlight
+  - theme-default
+  - sharing
+languages:
+  en: "English"
+redirects:
+  /old-docs: /new-docs
