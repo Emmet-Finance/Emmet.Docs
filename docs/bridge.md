@@ -18,7 +18,7 @@ Navigate to [https://emmet.finance/bridge](https://emmet.finance/bridge) and con
 
 To initiate a transfer, select the token you wish to send from the drop-down menu. Choose your source and destination networks from the available options (Note: Additional networks and tokens will be supported in the future). Enter the recipient's address and the amount you want to transfer.
 
-![Inmage-2, Prepare for trnsfer](./img/bridge/Bridge2.webp)
+![Inmage-2, Prepare for transfer](./img/bridge/Bridge2.webp)
 
 ### Step 4
 
