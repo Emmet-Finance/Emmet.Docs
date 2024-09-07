@@ -3,7 +3,7 @@ root: ./docs
 ​structure:
   readme: README.md
   summary: SUMMARY.md
-  glossary: GLOSSARY.md
+  # glossary: GLOSSARY.md
   introduction: introduction.md
 branch: main
 plugins:
@@ -16,7 +16,3 @@ plugins:
   - highlight
   - theme-default
   - sharing
-languages:
-  en: "English"
-redirects:
-  /old-docs: /new-docs
