@@ -7,4 +7,4 @@ Step 1: For personal transfers across networks, ensure you've set up wallets for
 
 Step 2: Navigate to https://emmet.finance/bridge and connect your wallet to the platform.
 
-![Bridge-1](../img/bridge/Bridge1.webp)
+![Bridge-1](./img/bridge/Bridge1.webp)
