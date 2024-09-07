@@ -18,8 +18,14 @@ For any questions or clarifications on how to use our assets, please reach out t
 
 ## Brand Assets
 
+::: tip
 
-> [Download Brand Assets](../assets/Emmet-assets.zip)
+[Download Brand Assets](https://github.com/Emmet-Finance/Emmet.Docs/blob/main/docs/assets/Emmet-assets.zip?raw=true)
+
+:::
+
+> [!TIP]
+> [Download Brand Assets](https://github.com/Emmet-Finance/Emmet.Docs/blob/main/docs/assets/Emmet-assets.zip?raw=true)
 
 By using these assets, you acknowledge that Emmet.finance owns all rights to them and you will not interfere with their rights, or challenge their rights, in the assets. Thank you for respecting our brand guidelines.
 
