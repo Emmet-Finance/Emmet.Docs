@@ -18,15 +18,11 @@ For any questions or clarifications on how to use our assets, please reach out t
 
 ## Brand Assets
 
-<br/>
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 8px; text-align: center;">
-  <strong>Download Resources:</strong>
-  <br>
-  <a href="https://github.com/Emmet-Finance/Emmet.Docs/blob/main/docs/assets/Emmet-assets.zip?raw=true" download style="color: #0078e7; font-weight: bold;">
-    Click here to download the ZIP file
-  </a>
-</div>
-<br/>
+{% hint style="info" %}
+
+## [Click here to download the ZIP file](https://github.com/Emmet-Finance/Emmet.Docs/blob/main/docs/assets/Emmet-assets.zip?raw=true)
+
+{% endhint %}
 
 By using these assets, you acknowledge that Emmet.finance owns all rights to them and you will not interfere with their rights, or challenge their rights, in the assets. Thank you for respecting our brand guidelines.
 
