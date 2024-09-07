@@ -13,4 +13,5 @@
 - [Lending & Borrowing](./docs/products/lend_n_borrow.md)
 
 ## Ecosystem & Partners
+- [Governance](./docs/ecosystem/governance.md)
 - [Brand Assets](./docs/ecosystem/brand_and_logos.md)
