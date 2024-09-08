@@ -1,0 +1,18 @@
+{
+    "title":"Emmet.Finance documentation",
+    "description":"A comprehensive guide to Emmet.Finance products, tech and ecosystem.",
+    "plugins": [
+    "search",
+    "highlight",
+    "theme-default",
+    "logo"
+  ],
+  "pluginsConfig": {
+    "logo": {
+      "url": "./docs/img/Logo.avif"
+    },
+    "search": {
+      "maxIndexSize": 3000
+    }
+  }
+}

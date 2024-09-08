@@ -19,7 +19,7 @@
 - [Governance](./docs/ecosystem/governance.md)
 - [Brand Assets](./docs/ecosystem/brand_and_logos.md)
 
-## Follow Us
+## Follow UsLogo
 - [Social Networks](./docs/team/social_networks.md)
 
 ## Join Us
