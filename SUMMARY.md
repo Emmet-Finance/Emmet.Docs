@@ -15,3 +15,6 @@
 ## Ecosystem & Partners
 - [Governance](./docs/ecosystem/governance.md)
 - [Brand Assets](./docs/ecosystem/brand_and_logos.md)
+
+## Team
+- [Social Networks](./docs/team/social_networks.md)
