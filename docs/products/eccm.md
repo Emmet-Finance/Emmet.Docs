@@ -12,6 +12,8 @@ The `Emmet.Finance Cross-Chain Messaging` system is designed to enable decentral
 
 4. **Smart Contract-Based Consensus**: The use of a smart contract for multi-signature verification makes the consensus process open and auditable, eliminating the need for trust in any centralized entity or external server.
 
+![Architecture](../img/ECCMArchitecture.svg)
+
 ## Advantages
 
 1. **Security and Reliability**: With on-chain feedback and the ability to revert transactions, Emmet ensures that users can trust the integrity of their cross-chain interactions.
