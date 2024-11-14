@@ -17,7 +17,7 @@
 
 ## Process
 
-The governance process within \textit{Emmet.Finance** involves several key stages, from proposal submission to implementation. The following steps outline how governance functions are carried out:
+The governance process within `Emmet.Finance` involves several key stages, from proposal submission to implementation. The following steps outline how governance functions are carried out:
 
 1. **Proposal Submission**:
 

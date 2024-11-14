@@ -35,7 +35,7 @@ It reduces the liquidity fragmentation, increasing the LP provider’s rewards w
 
 ### Emmet Interchain Network
 
-`Emmet Interchain Network` (EIN) is an innovative EVM-compatible blockchain designed to serve as the backbone of \textit{Emmet.Finance}'s cross-chain operations. It functions as a security and operational hub, integrating multiple EVM and Non-EVM blockchains into a cohesive and secure DeFi ecosystem.
+`Emmet Interchain Network` (EIN) is an innovative EVM-compatible blockchain designed to serve as the backbone of `Emmet.Finance`'s cross-chain operations. It functions as a security and operational hub, integrating multiple EVM and Non-EVM blockchains into a cohesive and secure DeFi ecosystem.
 
 
 ### Cross-chain Farming:
