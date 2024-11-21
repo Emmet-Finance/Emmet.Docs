@@ -71,7 +71,7 @@ const config: Config = {
       // title: 'Emmet.Docs',
       logo: {
         alt: 'Emmet.Logo',
-        src: 'img/emmet-logo.svg',
+        src: 'img/Emmet-sign.png',
       },
       items: [
         {
@@ -98,34 +98,25 @@ const config: Config = {
               label: 'Introduction',
               to: '/docs/intro',
             },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
             {
-              label: 'Telegram',
-              href: 'https://t.me/Emmet_Finance'
+              label: 'Products',
+              to: '/docs/category/products'
             },
             {
-              label: 'Discord',
-              href: 'https://discord.gg/yuXxDctC4W',
+              label: 'SDK',
+              to: '/docs/category/sdk'
             },
             {
-              label: 'X',
-              href: 'https://twitter.com/Emmet_Finance',
+              label: 'Team',
+              to: '/docs/category/team'
             },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/Emmet-Finance',
+              label: 'Ecosystem',
+              to: '/docs/category/ecosystem'
             },
           ],
-        },
+        }
+
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Emmet.Finance`,
     },
