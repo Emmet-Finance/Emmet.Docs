@@ -1,0 +1,316 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #53b7ff;
+  --ifm-color-primary-dark: #53b7ff;
+  --ifm-color-primary-darker: #408bc1;
+  --ifm-color-primary-darkest: #3d8ac0;
+  --ifm-color-primary-light: #53b7ff;
+  --ifm-color-primary-lighter: #53b7ff;
+  --ifm-color-primary-lightest: #53b7ff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  color: black;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #efeb00;
+  --ifm-color-primary-dark: #efeb00;
+  --ifm-color-primary-darker: #efeb00;
+  --ifm-color-primary-darkest: #b1ae02;
+  --ifm-color-primary-light: #efeb00;
+  --ifm-color-primary-lighter: #efeb00;
+  --ifm-color-primary-lightest: #efeb00;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.ease-in-out {
+  transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+}
+
+.transition-transform {
+  transition-property: transform;
+}
+
+.pt-5 {
+  padding-top: 1.25rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.rounded-2xl {
+  border-radius: 1rem;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.docs-wrapper,
+.flex,
+.pagination-nav {
+  display: flex;
+}
+
+.items-start,
+.row--align-top {
+  align-items: flex-start;
+}
+
+*,
+:after,
+:before {
+  border: 0 solid #e5e7eb;
+}
+
+*,
+.DocSearch-Container,
+.DocSearch-Container *,
+.inpCol a,
+.lightBoxe,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.docs-wrapper,
+.flex,
+.pagination-nav {
+  display: flex;
+}
+
+a:-webkit-any-link {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
+.gap-6 {
+  gap: 1.5rem;
+}
+
+/* F O N T */
+
+.font-medium {
+  font-weight: 500;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.markdown li,
+body {
+  word-wrap: break-word;
+}
+
+body {
+  font-size: 16px;
+  line-height: 160%;
+  line-height: inherit;
+}
+
+/* G I T H U B   L I N K S */
+
+.grid {
+  display: grid;
+}
+
+.mt-16 {
+  margin-top: 4rem;
+}
+
+.hover\:text-black:hover,
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
+.rounded-xl {
+  border-radius: .75rem;
+}
+
+.docs-wrapper,
+.flex,
+.pagination-nav {
+  display: flex;
+}
+
+.items-center,
+.row--align-center {
+  align-items: center;
+}
+
+:root,
+html[data-theme=dark] {
+  --ifm-color-emphasis-500: var(--ifm-color-gray-500);
+}
+
+.navbar--dark,
+:root {
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary);
+}
+
+.button--outline.button--active,
+.button--outline:active,
+.button--outline:hover,
+:root {
+  --ifm-button-color: var(--ifm-font-color-base-inverse);
+}
+
+.space-x-4>:not([hidden])~:not([hidden]) {
+  --tw-space-x-reverse: 0;
+  margin-left: calc(1rem*(1 - var(--tw-space-x-reverse)));
+  margin-right: calc(1rem*var(--tw-space-x-reverse))
+}
+
+
+audio,
+canvas,
+embed,
+iframe,
+img,
+object,
+svg,
+video {
+  display: block;
+  vertical-align: middle;
+}
+
+:root,
+html[data-theme=dark] {
+  --ifm-color-emphasis-500: var(--ifm-color-gray-500);
+}
+
+.toggle_iYfV,
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/*  D A R K   M O D E   */
+
+.text-black {
+  color: black;
+}
+
+html[data-theme='dark'] .dark\:text-white {
+  color: white;
+}
+
+.hover\:-translate-y-3:hover {
+  --tw-translate-y: -0.75rem
+}
+
+.dark\:hover\:bg-blue-500:hover {
+  --tw-bg-opacity: 1;
+  background-color: var(--ifm-color-gray-600);
+  color: black;
+}
+
+/* .hover\:bg-blue-500:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(83 183 255/var(--tw-bg-opacity));
+  color: black;
+} */
+
+svg,
+svg path {
+  fill: currentColor;
+}
+
+.footer__link-item {
+  display: block
+}
+
+.footer__links,
+.mb-4 {
+    margin-bottom: 1rem
+}
+
+.footer__link-item {
+    color: var(--ifm-footer-link-color);
+    line-height: 2
+}
+
+.footer__link-item:hover {
+    color: var(--ifm-footer-link-hover-color)
+}
+
+.row.footer__links .col.footer__col {
+  flex-basis: unset;
+  flex-grow: unset;
+  max-width: unset;
+  min-width: 230px;
+  width: 230px
+}
+
+ul.footer__items li.footer__item a.footer__link-item {
+  color: #fff;
+  line-height: 33px;
+  margin: 0;
+  opacity: .7;
+  text-decoration: none
+}
+
+ul.footer__items li.footer__item a.footer__link-item:hover {
+  color: #fff !important;
+  opacity: 1 !important
+}
+
+@media (min-width: 768px) {
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.footer__link-item {
+  display: inline-flex;
+  align-items: flex-start;
+  vertical-align: middle;
+}
+
+.iconExternalLink_nPIU {
+  margin-top: 8px;
+  margin-left: 10px;
+}
+
+.navbar__logo {
+  color: var(--ifm-link-color);
+}
