@@ -34,7 +34,7 @@ To enhance token value over time, Emmet.Finance employs the following deflationa
 2. **Protocol Revenue Sharing**:
    - EMMET holders who stake their tokens receive a share of protocol fees, incentivizing long-term holding.
 
-
+---
 
 ## Security and Audits
 
@@ -46,7 +46,8 @@ Emmet.Finance prioritizes security, conducting regular audits and employing on-c
 
 - **Website**: [emmet.finance](https://emmet.finance)
 - **Social Media**:
-    - [Telegram](https://t.me/Emmet_Finance)
+    - [Telegram Chat](https://t.me/Emmet_Finance)
+    - [Telegram Announcements](https://t.me/Emmet_Finance_Announcements)
     - [Twitter](https://twitter.com/Emmet_Finance)
     - [Discord](https://discord.gg/yuXxDctC4W)
 

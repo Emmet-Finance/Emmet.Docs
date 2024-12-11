@@ -43,7 +43,8 @@ Emmet.Finance is governed through a **Decentralized Autonomous Organization (DAO
 
 - **Website**: [emmet.finance](https://emmet.finance)
 - **Social Media**:
-    - [Telegram](https://t.me/Emmet_Finance)
+    - [Telegram Chat](https://t.me/Emmet_Finance)
+    - [Telegram Announcements](https://t.me/Emmet_Finance_Announcements)
     - [Twitter](https://twitter.com/Emmet_Finance)
     - [Discord](https://discord.gg/yuXxDctC4W)
 
