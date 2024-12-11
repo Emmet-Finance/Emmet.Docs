@@ -36,12 +36,6 @@ To enhance token value over time, Emmet.Finance employs the following deflationa
 
 ---
 
-## Security and Audits
-
-Emmet.Finance prioritizes security, conducting regular audits and employing on-chain mechanisms to safeguard tokenomics integrity. All EMMET transactions and vesting schedules are transparent and verifiable on-chain.
-
----
-
 ## Get Involved
 
 - **Website**: [emmet.finance](https://emmet.finance)
