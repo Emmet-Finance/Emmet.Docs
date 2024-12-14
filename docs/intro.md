@@ -8,6 +8,10 @@ Welcome to Emmet.Finance, the trailblazing all-in-one DeFi platform designed to 
 
 ## Key Features
 
+### Emmet Cross-Chain Messaging (ECCM):
+
+ECCM is a decentralized solution that enables seamless communication across blockchain protocols. It ensures secure message transmission between EVM and non-EVM chains, allowing smart contracts written in different programming languages and deployed on distinct architectures to function cohesively as a unified system. By abstracting the complexities of cross-chain relay mechanisms, ECCM empowers dApps to focus on their core business logic, saving significant development time and effort. Simultaneously, it provides decentralized relayers with enhanced opportunities to earn relayer fees by facilitating message transmission for multiple projects.
+
 ### Hybrid Bridge:
 - **Canonical Bridge (Lock & Burn)**: This mechanism uses a lock, mint, and burn protocol to transfer tokens between blockchain protocols where the token only exists on one protocol and has no representation on the other. It suits the needs of the small project tokens migrating between chain protocols or founding a branch of the project in a foreign ecosystem.
 
@@ -40,7 +44,6 @@ It reduces the liquidity fragmentation, increasing the LP provider’s rewards w
 ### Emmet Interchain Network
 
 `Emmet Interchain Network` (EIN) is an innovative EVM-compatible blockchain designed to serve as the backbone of `Emmet.Finance`'s cross-chain operations. It functions as a security and operational hub, integrating multiple EVM and Non-EVM blockchains into a cohesive and secure DeFi ecosystem.
-
 
 ### Cross-chain Farming:
 - Dynamic Yield Opportunities: Seamlessly stake assets and capitalize on yield farming rewards.
