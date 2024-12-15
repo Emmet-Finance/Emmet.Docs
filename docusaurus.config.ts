@@ -107,10 +107,6 @@ const config: Config = {
               to: '/docs/category/sdk'
             },
             {
-              label: 'Team',
-              to: '/docs/category/team'
-            },
-            {
               label: 'Ecosystem',
               to: '/docs/category/ecosystem'
             },
