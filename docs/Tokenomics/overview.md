@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: Overview
+title: EMMET Token
 ---
 
-# Token Overview
+# EMMET Token
 
 ## Summary
 
@@ -23,26 +23,3 @@ Emmet.Finance introduces an innovative tokenomics model designed to incentivize 
 - **FDV on TGE**: 25,000,000 USD
 - **Minting Policy**: Fixed Supply (Non-mintable)
 
----
-## Deflationary Mechanics
-
-To enhance token value over time, Emmet.Finance employs the following deflationary mechanisms:
-
-1. **Burn Mechanism**:
-   - A portion of transaction fees paid in EMMET will be burned permanently, reducing supply.
-
-2. **Protocol Revenue Sharing**:
-   - EMMET holders who stake their tokens receive a share of protocol fees, incentivizing long-term holding.
-
----
-
-## Get Involved
-
-- **Website**: [emmet.finance](https://emmet.finance)
-- **Social Media**:
-    - [Telegram Chat](https://t.me/Emmet_Finance)
-    - [Telegram Announcements](https://t.me/Emmet_Finance_Announcements)
-    - [Twitter](https://twitter.com/Emmet_Finance)
-    - [Discord](https://discord.gg/yuXxDctC4W)
-
-Join the Emmet.Finance community and shape the future of decentralized finance!

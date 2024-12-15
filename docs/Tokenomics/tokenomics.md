@@ -24,15 +24,3 @@ The total supply of EMMET tokens is distributed as follows:
 |Ecosystem Fund (farming, staking)|	7.00%|				|60 months		||70,000,000
 |Strategic Reserve|	24.00%|				|72 months		||240,000,000
 |Total|	100.00%	||||	1,000,000,000		
-
-
-## Get Involved
-
-- **Website**: [emmet.finance](https://emmet.finance)
-- **Social Media**:
-    - [Telegram Chat](https://t.me/Emmet_Finance)
-    - [Telegram Announcements](https://t.me/Emmet_Finance_Announcements)
-    - [Twitter](https://twitter.com/Emmet_Finance)
-    - [Discord](https://discord.gg/yuXxDctC4W)
-
-Join the Emmet.Finance community and shape the future of decentralized finance!
