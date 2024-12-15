@@ -9,7 +9,7 @@ title: Chain Handlers
 
 Each protocol has its own helper, for example `Web3Helper` for all EVM chains and `TonHelper` for the TON protocol.
 
-```ts
+```tsChain
 import { Web3Helper } from "emmet.js/dist/chains/web3";
 import { TonHelper }  from "emmet.js/dist/chains/ton";
 import { Chain }      from "emmet.js/dist/factory/types";
