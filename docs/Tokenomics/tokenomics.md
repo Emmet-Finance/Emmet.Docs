@@ -9,11 +9,11 @@ The total supply of EMMET tokens is distributed as follows:
 
 |Type|Allocation|	TGE|Cliff |Vesting|	EMMET tokens|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Pre-seed (open)|8.00%|		33%|	3 months|	12 months|	80,000,000
-|Private Seed|	5.00%|	30%|	3 months|	12 months|	50,000,000
-|Strategic Investors| 	5.00%|	25%|	3 months|	18 months|	50,000,000
-|KOLs (influencers)|	1.00%|	50%|		3 months|	|10,000,000
-|Launchpads Sale (Spores, Kommunitas)|	1.50%|	100%|		3 months|	|15,000,000
+|Pre-seed (open)|8.00%|		33%|	3 months|	6 months|	80,000,000
+|Private Seed|	5.00%|	30%|	3 months|	6 months|	50,000,000
+|Strategic Investors| 	5.00%|	25%|	3 months|	9 months|	50,000,000
+|KOLs (influencers)|	1.00%|	50%|		| 3 months	|10,000,000
+|Launchpads Sale (Spores, Kommunitas)|	1.50%|	100%|		| 1 month	|15,000,000
 |DEX (StonFi, Uniswap) & CEX Listings (MEXC, Gate)|	7.00%|	|				||70,000,000
 |Airdrop| 	3.00%|						|||30,000,000
 |Advisors|	2.00%|				|36 months|		|20,000,000
